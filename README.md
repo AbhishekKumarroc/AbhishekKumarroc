@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Abhishek 👋
 
-<!--
-**AbhishekKumarroc/AbhishekKumarroc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Automation Engineer @ DXC Technology**  
+🐍 Python | Automation | AI Enthusiast | IT Operations
 
-Here are some ideas to get you started:
+I build intelligent automation systems that reduce manual effort in backup, storage, monitoring, and incident management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Currently Building
+- **AI-Powered Log Analyzer & Incident Agent** (AIOps project — in progress)
+- Smart Notice Board System (Google Apps Script automation)
+
+### 🧠 Skills
+- **Languages**: Python, Google Apps Script, JavaScript
+- **Automation**: Scripting, Email workflows, Log parsing
+- **AI/ML**: Log analysis, Anomaly detection, LLMs, Basic agents
+- **Tools**: Pandas, scikit-learn, Streamlit, Docker (learning)
+
+### 🎯 Goal
+Become an AI Automation Engineer who turns raw IT logs and alerts into intelligent, self-healing systems.
+
+📍 Open to opportunities | Let's connect!
