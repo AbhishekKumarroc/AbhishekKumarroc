@@ -1,21 +1,30 @@
-# Hi, I'm Abhishek 👋
+👋 Hi, I'm Abhishek (Abhishekkumar Reddy)
 
-**Automation Engineer @ DXC Technology**  
-🐍 Python | Automation | AI Enthusiast | IT Operations
+💼 Automation Engineer @ DXC Technology  
+🐍 Python | Google Apps Script | AI & ML Enthusiast
 
-I build intelligent automation systems that reduce manual effort in backup, storage, monitoring, and incident management.
+🚀 What I Build  
+I automate IT operations (backup, storage, monitoring) and turn logs/errors into intelligent AI systems.
 
-### 🚀 What I'm Currently Building
-- **AI-Powered Log Analyzer & Incident Agent** (AIOps project — in progress)
-- Smart Notice Board System (Google Apps Script automation)
+🧠 Currently Building  
+• AI Log Analyzer + ML models for incident prediction  
+• AI Agents for autonomous IT operations (AIOps)
 
-### 🧠 Skills
-- **Languages**: Python, Google Apps Script, JavaScript
-- **Automation**: Scripting, Email workflows, Log parsing
-- **AI/ML**: Log analysis, Anomaly detection, LLMs, Basic agents
-- **Tools**: Pandas, scikit-learn, Streamlit, Docker (learning)
+## 🔥 Projects
+### 1. Smart Notice Board System (Live Automation)
+- Automated exam seat allocation + email system (Google Apps Script + Gmail API)
+- Reduced manual work by 90% for students/faculty
+→ [Repo](https://github.com/AbhishekKumarroc/smart-notice-board-system)
 
-### 🎯 Goal
-Become an AI Automation Engineer who turns raw IT logs and alerts into intelligent, self-healing systems.
+### 2. AI Log Analyzer (In Progress) ← This will be your star project
+- Real-time log parsing, error classification & AI suggestions
+- Moving to ML + AI Agents
 
-📍 Open to opportunities | Let's connect!
+## 🛠️ Skills
+**Languages**: Python, JavaScript  
+**Automation**: Scripting, Log parsing, Email workflows  
+**AI/ML**: NLP, scikit-learn, LangChain (Agents), Pandas  
+**Tools**: Git, GitHub, Google Apps Script, Jupyter
+
+## 🎯 Goal
+Become an **AI Automation Engineer** building production-grade intelligent systems for IT operations.
